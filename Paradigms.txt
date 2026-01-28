@@ -1,0 +1,24 @@
+A programming paradigm is a way of thinking about how to write and structure programs. With other words we can say programming paradgim helps us to understand how programs are structured,
+how they are solved and how data and logic are organized. And different paradigms offer different ways of thinking about solutions.
+
+1.Imperative programming paradigms basicly tells the computer exactly what to do, how to do it, step by step. It is easy for begginners but it also hard to control when we have large program.
+
+a) Procedural Programming
+Procedural perogramming organizes code into procedures of function. 
+
+b) Object-Oriented Programming (OOP)
+Organizes programs around objects (real-world entities). OOP itself has different types: Class based(encapsulation), Object based(inheritance), Prototype based(polymorphism).
+
+c) Parallel Processing Approach
+Focuses on running multiple tasks at the same time. It has two types: Data parallelism - same operation on different data, Task parallelism - different task simultaneously.
+
+2. Declarative Programming Paradigm focuses on what result is needed, not how to get it.
+
+a) Logic Programming
+Uses facts and rules. Program finds the solution automatically.
+
+b) Functional Programming
+Uses functions and avoids changing data. Emphasizes immutability.
+
+c) Database Processing Approach
+Used for working with data in databases. We describe what data we want.
